@@ -1,2 +1,2 @@
 # logical--functions_in-excel
-if function, and function, or function, iferror , sumif,sumfis.
+if function, and function, or function, iferror , sumif,sumfis,nested if
